@@ -4,9 +4,10 @@
 2) Create the database using the psql command CREATE DATABASE bookmark_manager;
 
 --CREATE DATABASE bookmark_manager;
+--CREATE TEST DATABASE bookmark_manager_test;
 
-1) Connect to the database using the pqsl command \c bookmark_manager;
-2) Run the query we have saved in the file 01_create_bookmarks_table.sql
+1) Connect to the database using the pqsl command \c bookmark_manager; and \c bookmark_manager_test;
+2) Run the query we have saved in the file 01_create_bookmarks_table.sql and \c bookmark_manager_test.sql
 
 ### To run the Bookmark Manager app:
 
