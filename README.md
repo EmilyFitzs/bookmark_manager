@@ -15,9 +15,15 @@ rackup -p 3000
 
 
 ## User Stories
-
 As a user, so that I can keep record of my favourite websites
-I would like to add a bookmark to a list
+I would like to add a bookmark to a Bookmark Manager
+
+As a user, so that I can see my favourite websites
+I would like to see a list of my bookmarks in categories
+
+As a user
+So I can remove my bookmark from Bookmark Manager
+I want to delete a bookmark
 
 ## Domain Model
 
